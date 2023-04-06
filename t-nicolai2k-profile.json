@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T01:52:11Z",
+  "IdClaims": [
+    {
+      "Claim": "t:nicolai2k"
+    },
+    {
+      "Claim": "mdon:@nicolai2k@mastodon.world"
+    },
+    {
+      "Claim": "yt:@nicolai2k"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "e84a860bc572bb27d4403488",
+    "Timestamp": "2023-04-06T01:59:49Z",
+    "Signature": "38fce014c40e2b713dd1169509260516b89751ae26a652cc50d55d53366d910303cab46b7e4e33b9eb531e8369d3613f96d1861797e67c5640cff7c3d3b82419c41322504428b34c4e4b468e54dc68eec6b03631d75d7b7c5ce1403a7645bcfe1550239ac99a5b943fdc635277678ebf1fde389437bfaa57d986f9eed9412d8ff3dcbfd8a340a19cd2bebab663756f81789d35ac6c9bf91ba1d6cc2708203d166e2a68f58cb841ebf9edfd05fdb625bd0cb2d72d7f69688a72b53e5824ee9da2b8344f61b6af9dde7a15b1f0574eb3bbc96670efb2b2ed30c1f2a84dc51e2b1697894fa1b795f991a94454dc80b4096fcb8274e45f2ed787527092b7d36bec39"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "6bdfe1181c62dd8a778990a1280ddef54ba4ed506b187d8eae7aee54bfc5f4c3",
+  "ContentToHash": "v1|mdon:@nicolai2k@mastodon.world,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:nicolai2k,yt:@nicolai2k|2023-04-06T01:52:11Z"
+}
